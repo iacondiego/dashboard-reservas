@@ -42,7 +42,7 @@ export function KanbanCard({ item, onCardClick }: KanbanCardProps) {
       {/* Header */}
       <div className="mb-3">
         <h3 className="text-base font-semibold text-gray-900 line-clamp-2 mb-1 group-hover:text-primary-600 transition-colors">
-          {item.nombre_paciente}
+          {item.nombre_cliente}
         </h3>
         <p className="text-sm text-gray-500 line-clamp-1">{item.servicio}</p>
       </div>
