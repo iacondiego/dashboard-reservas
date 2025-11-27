@@ -1,6 +1,8 @@
 import { ReservasTable } from '@/features/reservas/components/ReservasTable'
 import { CalendarDays } from 'lucide-react'
 
+export const dynamic = 'force-dynamic'
+
 export default function ReservasPage() {
   return (
     <div className="min-h-screen">
