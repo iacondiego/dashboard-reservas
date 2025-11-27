@@ -17,7 +17,7 @@ export function Sidebar() {
   return (
     <aside className="w-64 bg-white border-r border-gray-200 min-h-screen">
       <div className="p-6">
-        <h1 className="text-2xl font-bold text-gray-900">Dashboard</h1>
+        <h1 className="text-2xl font-bold text-gray-900">GrupoZann</h1>
       </div>
       <nav className="px-3 space-y-1">
         {navigation.map((item) => {
