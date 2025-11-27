@@ -1,0 +1,44 @@
+==============================================
+🏥 DASHBOARD GRUPOZANN - ACCESO RÁPIDO
+==============================================
+
+✅ SERVIDOR CORRIENDO EN:
+
+http://localhost:3001
+
+==============================================
+
+📊 SECCIONES DISPONIBLES:
+
+1. Dashboard Principal
+   http://localhost:3001
+
+2. Pipeline de Ventas  
+   http://localhost:3001/pipeline
+
+3. Contactos
+   http://localhost:3001/contactos
+
+4. Reservas
+   http://localhost:3001/reservas
+
+==============================================
+
+💡 INSTRUCCIONES:
+
+1. Abre tu navegador
+2. Copia y pega la URL: http://localhost:3001
+3. Navega entre las secciones usando el menú lateral
+
+==============================================
+
+📋 ARCHIVOS DE AYUDA:
+
+- RESUMEN_EJECUTIVO.md - Para la demo de ventas
+- INSTRUCCIONES_MVP.md - Guía técnica completa
+
+==============================================
+
+✅ TODO FUNCIONANDO Y LISTO PARA TU REUNIÓN
+
+==============================================
